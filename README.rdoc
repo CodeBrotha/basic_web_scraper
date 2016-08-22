@@ -1,0 +1,5 @@
+== README
+
+Basic first web scraper project.
+
+Scrapes names & prices of men's sneakers.
