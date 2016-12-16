@@ -11,7 +11,7 @@ In your Terminal/Command Prompt:
 
 $ cd into the newly cloned directory.
 
-gem install httparty
+$ bundle install
 
 $ cd lib
 
